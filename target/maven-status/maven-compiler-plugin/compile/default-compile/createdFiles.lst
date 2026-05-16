@@ -1,0 +1,7 @@
+ECommerceProject\AbstractComponents\AbstractComponent.class
+ECommerceProject\pageobjects\CartPage.class
+ECommerceProject\pageobjects\CheckOutPage.class
+ECommerceProject\pageobjects\LandingPage.class
+ECommerceProject\pageobjects\ConfirmationPage.class
+ECommerceProject\pageobjects\ProductCatalogue.class
+ECommerceProject\pageobjects\OrderPage.class
